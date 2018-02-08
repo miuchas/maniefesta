@@ -14,10 +14,10 @@
     .row
       .span3
         / Filter
-        @include("_galeria_categorias")
+        @include("site_partials/_galeria_categorias")
         / End Filter
 
       .span9
         .row
-          @include("_galeria_itens")
+          @include("site_partials/_galeria_itens")
     / End Portfolio Projects

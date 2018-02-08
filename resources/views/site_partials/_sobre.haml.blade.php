@@ -10,8 +10,8 @@
     / People
     .row
       / Start Profile
-      @include("_sobre_fotos")
-      @include("_sobre_fotos")
-      @include("_sobre_fotos")
+      @include("site_partials/_sobre_fotos")
+      @include("site_partials/_sobre_fotos")
+      @include("site_partials/_sobre_fotos")
       / End Profile
     / End People

@@ -67,31 +67,31 @@
     / End of Splash Screen
 
     / Homepage Slider
-    @include("_banner_rotativo")
+    @include("site_partials/_banner_rotativo")
     / End Homepage Slider
 
     / Header
-    @include("_menu")
+    @include("site_partials/_menu")
     / End Header
 
     / Our Work Section
-    @include("_galeria")
+    @include("site_partials/_galeria")
     / End Our Work Section
 
     / About Section
-    @include("_sobre")
+    @include("site_partials/_sobre")
     / End About Section
 
     / Contact Section
-    @include("_contato")
+    @include("site_partials/_contato")
     / End Contact Section
 
     / Depoiment Section
-    @include("_depoimentos")
+    @include("site_partials/_depoimentos")
     / End Depoiment Section
 
     / Socialize
-    @include("_redes_sociais")
+    @include("site_partials/_redes_sociais")
     / End Socialize
 
     / Footer
